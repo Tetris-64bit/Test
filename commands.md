@@ -27,6 +27,10 @@ git log
 ```sh
 git log --oneline
 ```
+просмотр коммитов с ветками:
+```sh
+git log --oneline --graph
+```
 переключение по коммитам:
 ```sh
 git checkout
