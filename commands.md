@@ -47,6 +47,10 @@ del <file_name>
 ```sh
 git merge branch
 ```
+для отображения всех веток:
+```sh
+git branch
+```
 для перемещения по веткам:
 ```sh
 git checkout branch
