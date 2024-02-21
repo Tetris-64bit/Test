@@ -45,7 +45,7 @@ del <file_name>
 ```
 для слияния двух веток: 
 ```sh
-git merge <branch>
+git merge <branch_name>
 ```
 для отображения всех веток:
 ```sh
@@ -53,9 +53,12 @@ git branch
 ```
 для перемещения по веткам:
 ```sh
-git checkout <branch>
+git checkout <branch_name>
 ```
-
+для удаления ветки: 
+```sh
+git branch -d <branch_name>
+```
 
 Чтобы убрать ненужный файл из git, необходимо создать файл в репозитории <.gitignore> и ввести наименование файла.
 
