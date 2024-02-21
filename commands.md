@@ -45,7 +45,7 @@ del <file_name>
 ```
 для слияния двух веток: 
 ```sh
-git merge branch
+git merge <branch>
 ```
 для отображения всех веток:
 ```sh
@@ -53,7 +53,7 @@ git branch
 ```
 для перемещения по веткам:
 ```sh
-git checkout branch
+git checkout <branch>
 ```
 
 
