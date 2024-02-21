@@ -7,6 +7,10 @@
 ```sh
 git init
 ```
+статус git:
+```sh
+git status
+```
 добавление файла в git:
 ```sh
 git add <file_mname>
@@ -21,7 +25,7 @@ git log
 ```
 уменьшенный просмотр коммитов:
 ```sh
-git log --online
+git log --oneline
 ```
 переключение по коммитам:
 ```sh
@@ -29,19 +33,19 @@ git checkout
 ```
 комманда смены директории:
 ```sh
-sd
+git sd
 ```
 команда отображения текущей директории:
 ```sh
-dir
+git dir
 ```
 просмотр изменений в коммитах
 ```sh
-diff
+git diff
 ```
 даление файла из репозитория:
 ```sh
-del <file_name>
+git del <file_name>
 ```
 для слияния двух веток: 
 ```sh
