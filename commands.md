@@ -51,6 +51,10 @@ git diff
 ```sh
 git clone <link>
 ```
+для обновлдения публичного репозитория
+```sh
+git pull
+```
 даление файла из репозитория:
 ```sh
 git del <file_name>
