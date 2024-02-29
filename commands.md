@@ -47,6 +47,10 @@ git dir
 ```sh
 git diff
 ```
+добавление удаленного репозитория
+```sh
+git clone <link>
+```
 даление файла из репозитория:
 ```sh
 git del <file_name>
@@ -104,3 +108,4 @@ git branch -d <branch_name>
 
 ## WEB ссылки
 Текст [пример ссылки] (http.example.com  "Всплывающая подсказка")
+
