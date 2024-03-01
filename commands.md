@@ -125,7 +125,7 @@ git branch -d <branch_name>
 4. Отправляем эти изменения на свой аккаунт (push).
 5. В окне на Github появляется возможность отправить pull request.
 
-
+---Добавить в список команд---
 git stash 
 git pull --rebase
 git push origin --delete <branch_name>
