@@ -126,4 +126,6 @@ git branch -d <branch_name>
 5. В окне на Github появляется возможность отправить pull request.
 
 
-git stash ????
+git stash 
+git pull --rebase
+git push origin --delete <branch_name>
