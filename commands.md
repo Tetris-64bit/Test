@@ -129,3 +129,4 @@ git branch -d <branch_name>
 git stash 
 git pull --rebase
 git push origin --delete <branch_name>
+git rebase --continue
